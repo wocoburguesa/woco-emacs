@@ -1,0 +1,16 @@
+# name: header_all
+# key: headerall
+# --
+#include <iostream>
+#include <vector>
+#include <map>
+#include <algorithm>
+#include <sstream>
+#include <math.h>
+
+using namespace std;
+
+int main(){
+    $0
+    return 0;
+}

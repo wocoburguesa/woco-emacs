@@ -1,0 +1,15 @@
+# Editor/IDE files
+*.swp
+*.swo
+\#.#
+*/.#*
+\#*
+.#*
+*~
+*.idea
+
+# OS specific files
+.DS_Store
+
+*.log
+*.pot
