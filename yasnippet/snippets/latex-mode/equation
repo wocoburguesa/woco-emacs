@@ -1,0 +1,9 @@
+# contributor: Marco Flores <marco.flores@ucsp.edu.pe>
+# name: equation
+# key: equation
+# --
+\begin{equation}
+  \begin{split}
+  $0
+  \end{split}
+\end{equation}

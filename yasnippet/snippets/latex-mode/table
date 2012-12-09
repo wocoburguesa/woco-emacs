@@ -1,0 +1,9 @@
+# contributor: Marco Flores <marco.flores@ucsp.edu.pe>
+# name: table
+# key: table
+# --
+\begin{center}
+  \begin{tabular}{${1:columns}}
+  $0
+  \end{tabular}
+\end{center}

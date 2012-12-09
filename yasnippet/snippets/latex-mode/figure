@@ -1,0 +1,13 @@
+# contributor: Marco Flores <marco.flores@ucsp.edu.pe>
+# name: figure
+# key: figure
+# --
+\begin{figure}[h]
+  \begin{center}
+    \includegraphics[
+      height=${1:height},
+      width=${2:width}
+    ]{${3:filename}}
+  \end{center}
+  \caption{${4:caption}.}
+\end{figure}

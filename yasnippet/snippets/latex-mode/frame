@@ -1,0 +1,8 @@
+# contributor: Marco Flores <marco.flores@ucsp.edu.pe>
+# name: frame
+# key: frame
+# --
+\begin{frame}
+  \frametitle{${1:title}}
+$0
+\end{frame}

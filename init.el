@@ -17,6 +17,9 @@
 ;;IDO mode
 (load-library "woco-ido")
 
+;;Tramp mode
+(load-library "woco-tramp")
+
 ;;Electric pairs
 (load-library "electric-pairs")
 
