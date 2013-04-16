@@ -10,9 +10,9 @@
 (yas/load-directory "~/.emacs.d/yasnippet/snippets")
 
 ;;Python
-(load-library "woco-python")
-(load-library "woco-ropemacs")
-(require 'ropemacs)
+;;(load-library "woco-python")
+;;(load-library "woco-ropemacs")
+;;(require 'ropemacs)
 
 ;;IDO mode
 (load-library "woco-ido")
