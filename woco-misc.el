@@ -1,3 +1,8 @@
+;;Set environment variable from shell
+(load-library "exec-path-from-shell")
+(when (memq window-system '(mac ns))
+  (exec-path-from-shell-initialize))
+
 ;;;Open files in UTF-8
 (setq locale-coding-system 'utf-8)
 (set-terminal-coding-system 'utf-8)
@@ -9,6 +14,20 @@
 (show-paren-mode 1)
 ;; with no delay
 (setq show-paren-delay 0)
+
+;;Code folding for javascript
+;;(taken from http://blog.deadpansincerity.com/2011/05/setting-up-emacs-as-a-javascript-editing-environment-for-fun-and-profit/)
+(add-hook 'js-mode-hook
+          (lambda ()
+            ;; Scan the file for nested code blocks
+            (imenu-add-menubar-index)
+            ;; Activate the folding mode
+            (hs-minor-mode t)))
+;; Show-hide
+(global-set-key (kbd "C-.") 'hs-show-block)
+(global-set-key (kbd "C-M-.") 'hs-show-all)
+(global-set-key (kbd "C-,") 'hs-hide-block)
+(global-set-key (kbd "C-M-,") 'hs-hide-all)
 
 ;;;Use horizontal split only
 ;;;(setq split-height-threshold nil)

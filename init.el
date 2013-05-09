@@ -1,17 +1,38 @@
+(setq debug-on-error t)
+;;For javascript setup read this http://blog.deadpansincerity.com/2011/05/setting-up-emacs-as-a-javascript-editing-environment-for-fun-and-profit/
+
 ;;Library Paths
 (add-to-list 'load-path "~/.emacs.d")
+(add-to-list 'load-path "~/.emacs.d/yasnippet")
 (progn (cd "~/.emacs.d") (normal-top-level-add-subdirs-to-load-path))
 
 ;;Libraries to autoload
 (require 'ido)
 (require 'org)
-(require 'yasnippet)
 (require 'whitespace)
+(require 'flymake-cursor)
+
+;;Misc
+(load-library "woco-misc")
+
+;;Javascript niceties
+(load-library "woco-lintnode")
+
+;;YASnippet
+(require 'yasnippet)
 (yas/initialize)
 (yas/load-directory "~/.emacs.d/yasnippet/snippets")
+(load-library "woco-yasnippet")
 
 ;;uniquify, for more descriptive buffer names
 (require 'uniquify)
+
+;;Autocomplete (from http://cx4a.org/software/auto-complete/)
+(require 'auto-complete-config)
+(add-to-list 'ac-dictionary-directories "~/.emacs.d/ac-dict")
+(ac-config-default)
+(setq ac-use-menu-map t)
+(load-library "woco-autocomplete")
 
 ;;IDO mode
 (load-library "woco-ido")
@@ -22,8 +43,6 @@
 ;;Electric pairs
 (load-library "electric-pairs")
 
-;;Misc
-(load-library "woco-misc")
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
