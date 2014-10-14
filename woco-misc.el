@@ -29,6 +29,11 @@
 (global-set-key (kbd "C-,") 'hs-hide-block)
 (global-set-key (kbd "C-M-,") 'hs-hide-all)
 
+;; Set tabs to be 4 spaces
+(setq-default indent-tabs-mode nil)
+(setq-default tab-width 4)
+(setq indent-line-function 'insert-tab)
+
 ;;;Use horizontal split only
 ;;;(setq split-height-threshold nil)
 ;;;(setq split-width-threshold 80)

@@ -16,3 +16,8 @@
 (add-hook 'js-mode-hook
           (lambda ()
             (lintnode-hook)))
+
+;; Correct indentation according to Crockford
+(add-hook 'js-mode-hook
+      (lambda ()
+	(setq indent-tabs-mode nil)))

@@ -1,8 +1,2178 @@
-((("document" .
-   [0 0 0 1 0 0 0 0])
-  ("attr" .
+((("sanitizeRowJSON" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("utils" .
+   [1 0 0 0 0])
+  ("cols" .
+   [5 0 0 0])
+  ("use" .
+   [1 0 0])
+  ("access" .
+   [2 0 0 0 0 0])
+  ("currentPoint" .
+   [0 0 0 0 0 0 0 0 0 0 3 0])
+  ("50%" .
+   [1 0 0])
+  ("9" .
+   [2])
+  ("5%" .
+   [3 0])
+  ("fff" .
+   [11 0 0])
+  ("img" .
+   [1 0 0])
+  ("control" .
+   [4 0 0 0 0 0 1])
+  ("oauth2" .
+   [0 0 0 0 0 1])
+  ("overlayMaps" .
+   [0 0 0 0 2 0 1 0 0 0 0])
+  ("satellite" .
+   [1 0 0 0 0 0 0 0 0])
+  ("Satellite" .
+   [1 0 0 0 0 0 0 0 0])
+  ("street" .
+   [2 0 0 0 0 0])
+  ("A" .
+   [1])
+  ("projectsData" .
+   [0 0 0 0 0 0 0 0 0 2 0 0])
+  ("oauthid" .
+   [2 0 0 0 0 0 0])
+  ("u" .
+   [1])
+  ("png" .
+   [1 0 0])
+  ("y" .
+   [1])
+  ("data2" .
+   [1 0 0 0 0])
+  ("$httpProvider" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("authToken" .
+   [0 0 0 0 0 0 1 0 0])
+  ("access_token" .
+   [0 0 0 0 0 1 1 0 0 0 0 1])
+  ("CLIENT_SECRET" .
+   [0 0 0 0 0 0 0 0 0 3 0 0 0])
+  ("CLIENT_ID" .
+   [0 0 0 0 0 0 0 0 2])
+  ("constant" .
+   [2 0 0 0 0 0 0 0])
+  ("mark" .
+   [0 0 0 1])
+  ("getLatLngs" .
+   [0 0 0 0 0 0 2 0 0 1])
+  ("51" .
+   [1 0])
+  ("animatedMarker" .
+   [0 0 0 0 0 1 1 2 0 0 0 0 0 0])
+  ("maintenance" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("wait_for_modal_to_disappear" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("None" .
    [1 0 0 0])
-  ("click" .
+  ("settings" .
+   [1 0 0 0 0 0 0 0])
+  ("get_base_layer_by_name" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("get_base_layer_by_bane" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("assertNotEqual" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("assertNotIn" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("layer_name" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("find_elements_by_link_text" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("find_elements_by_" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("driver" .
+   [1 0 0 0 0 0])
+  ("open_edit_layers_modal" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("edit_users_modal" .
+   [0 0 0 0 0 0 0 2 1 2 1 0 0 0 0 0])
+  ("offline_areas_page" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 1])
+  ("GRUNT_ENV" .
+   [0 0 0 0 0 0 0 0 1])
+  ("MINIFY" .
+   [0 0 0 0 0 1])
+  ("sudo" .
+   [2 0 0 0])
+  ("NODEENV_BIN" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("NODE_ENV" .
+   [1 0 0 0 0 0 0 0])
+  ("USER" .
+   [1 0 0 0])
+  ("PROJECT_ROOT" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("env" .
+   [7 0 0])
+  ("controllers_tags" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("controllers" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("directives" .
+   [5 0 0 0 0 0 0 0 0 0])
+  ("dest" .
+   [1 0 0 0])
+  ("src" .
+   [1 0 0])
+  ("concat" .
+   [1 0 0 0 0 0])
+  ("FeatureGroup" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("getLatLng" .
+   [0 0 0 0 0 0 0 0 3])
+  ("makeClean" .
+   [1 0 0 0 0 0 0 0 0])
+  ("relatedTables" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("relatedTable" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("signIn" .
+   [1 0 0 0 0 1])
+  ("expires" .
+   [0 0 0 0 0 0 1])
+  ("20160" .
+   [1 0 0 0 0])
+  ("redirectUri" .
+   [0 0 0 0 0 0 0 0 0 2 0])
+  ("clientId" .
+   [1 0 0 0 0 0 0 2])
+  ("ESRI_OAUTH" .
+   [0 0 0 0 0 4 1 0 0 1])
+  ("unsavedChanges" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("getLayers" .
+   [1 0 0 0 1 0 0 0 0])
+  ("CURRENT_DATABASE" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("checkAutoPopulatedValues" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("saving" .
+   [2 0 0 0 0 0])
+  ("progress" .
+   [1 0 0 0 0 0 0 0])
+  ("jobHashId" .
+   [0 0 0 0 0 1 0 0 0])
+  ("currentCol" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("formattedDate" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("defer" .
+   [0 0 0 0 1])
+  ("formItemElement" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("formItemString" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("previewMapMode" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0])
+  ("htmlStringService" .
+   [0 0 0 0 0 0 0 0 0 0 0 2 1 1 0 0 0])
+  ("drawnLayers" .
+   [0 0 0 0 0 0 2 2 0 0 0])
+  ("removeLayer" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("_update" .
+   [1 0 0 0 0 0 0])
+  ("setupDOM" .
+   [0 0 0 0 0 0 0 1])
+  ("scrollHeight" .
+   [0 0 0 0 0 0 1 1 1 0 0 0])
+  ("border-color" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("d9534f" .
+   [0 0 1 0 0 0])
+  ("14px" .
+   [1 0 0 0])
+  ("ss" .
+   [1 0])
+  ("scrollTop" .
+   [1 0 0 0 0 0 0 0 0])
+  ("css" .
+   [1 0 0])
+  ("domFunctions" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("bindCallbacks" .
+   [0 0 0 0 0 1 2 0 0 0 0 0 0])
+  ("75" .
+   [1 0])
+  ("4px" .
+   [2 0 0])
+  ("bar" .
+   [1 0 0])
+  ("r" .
+   [1])
+  ("teardown" .
+   [1 0 0 0 0 1 0 0])
+  ("rowId" .
+   [0 0 0 0 3])
+  ("makeHeader" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("makeActionsBar" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("news" .
+   [2 0 0 0])
+  ("transclude" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("read_only" .
+   [1 0 0 0 0 3 0 0 0])
+  ("fetchPermissionLevel" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("999" .
+   [1 0 0])
+  ("tableId" .
+   [0 0 0 0 0 0 1])
+  ("ff0000" .
+   [0 0 0 0 0 1])
+  ("ownerImage" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("picklistType" .
+   [6 0 0 0 0 0 0 0 0 3 0 0])
+  ("currentData" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("visible" .
+   [6 0 0 0 0 0 0])
+  ("editable" .
+   [24 0 0 0 0 1 0 1])
+  ("enableCellEdit" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("colDefinition" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("removeInvisibleColumns" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ownerImages" .
+   [1 0 0 0 0 0 1 0 0 0 0])
+  ("ownerUser" .
+   [2 0 0 0 0 0 0 0 0])
+  ("owner" .
+   [7 0 0 0 0])
+  ("addOwner" .
+   [1 0 0 0 0 0 0 0])
+  ("openUsersModal" .
+   [0 0 0 0 0 0 1 0 0 1 0 0 0 0])
+  ("callbacks" .
+   [2 0 0 0 0 0 0 0 0])
+  ("selectedUserId" .
+   [6 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("selectedOfflineAreaId" .
+   [0 0 0 0 0 0 0 0 0 0 3 1 1 0 0 0 0 0 0 0 1])
+  ("toggleMapFeatures" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("clicked" .
+   [1 0 0 0 0 0 0])
+  ("mapFeatures" .
+   [0 0 0 0 1 1 3 0 0 0 0])
+  ("styles" .
+   [3 0 0 0 0 0])
+  ("regular" .
+   [4 0 0 0 0 0 0])
+  ("feature" .
+   [13 0 0 0 0 0 1])
+  ("properties" .
+   [6 0 0 0 0 0 0 0 0 0])
+  ("geoJsons" .
+   [2 0 0 0 0 0 0 0])
+  ("highlightStyle" .
+   [0 0 0 0 0 1 0 0 0 1 0 0 0 0])
+  ("sumTileTotals" .
+   [0 0 0 0 1 1 0 0 0 0 0 0 0])
+  ("totalTiles" .
+   [1 0 0 0 0 0 3 0 0 0])
+  ("maxZoom" .
+   [0 0 0 0 0 1 0])
+  ("minZoom" .
+   [1 0 0 0 0 0 1])
+  ("selectedArea" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("tileData" .
+   [1 0 0 0 0 5 0 0])
+  ("area" .
+   [2 0 0 0])
+  ("API_UTILS" .
+   [0 0 0 0 0 1 0 1 0])
+  ("resolve" .
+   [3 0 0 0 0 0 0])
+  ("offlineDataset" .
+   [0 0 0 0 0 0 0 0 5 0 0 0 0 0])
+  ("$modal" .
+   [1 0 0 0 0 0])
+  ("makeControl" .
+   [0 0 0 0 0 0 0 1 0 0 1])
+  ("initialize" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("makeLayers" .
+   [0 0 0 0 0 1 1 0 0 0])
+  ("terrain" .
+   [1 0 0 0 0 0 0])
+  ("is_new" .
+   [0 0 0 0 0 1])
+  ("gallerySuccessCounter" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("related_table" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("selectedExportFormat" .
+   [0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("actionType" .
+   [3 0 0 0 0 1 0 4 1 0])
+  ("geometry_type" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("join" .
+   [1 0 0 0])
+  ("items" .
+   [3 0 0 0 0])
+  ("buildJsonSpecific" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("choices" .
+   [8 0 0 0 0 0 0])
+  ("is" .
+   [1 0])
+  ("auto_update" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("autoCreated" .
+   [0 0 0 0 0 1 0 2 0 0 1])
+  ("defaultValue" .
+   [0 0 0 0 0 0 0 0 11 0 0 0])
+  ("required" .
+   [11 0 0 0 0 0 0 0])
+  ("maxLength" .
+   [0 0 0 0 0 1 0 0 0])
+  ("auto_populate" .
+   [0 0 0 0 0 3 1 3 0 1 1 0 1])
+  ("schemaItems" .
+   [0 0 0 0 0 0 0 3 0 0 1])
+  ("buildJson" .
+   [0 0 0 0 0 0 1 0 0])
+  ("datetimepicker" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("fn" .
+   [1 0])
+  ("dropdown" .
+   [2 0 0 1 0 0 0 0])
+  ("firstSet" .
+   [0 0 0 0 0 0 1 0])
+  ("colorpicker" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("currentColor" .
+   [0 0 0 0 0 0 0 0 0 1 0 1])
+  ("3em" .
+   [1 0 0])
+  ("border-top-left-radius" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0])
+  ("backdrop" .
+   [1 0 0 0 0 0 0 0])
+  ("newBaseLayerModal" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("rowsPerPage" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("pagination" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("nestedAttr" .
+   [0 0 0 0 0 0 0 3 1 0])
+  ("25em" .
+   [1 0 0 0])
+  ("removeClass" .
+   [0 0 0 0 0 0 0 0 2 1 0])
+  ("selected" .
+   [7 0 0 0 0 0 0 0])
+  ("defaultQuery" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("select" .
+   [6 0 0 0 0 0])
+  ("$on" .
+   [5 0 0])
+  ("poop" .
+   [17 0 0 0])
+  ("buildSequence" .
+   [0 0 0 0 0 0 0 6 0 0 0 0 0])
+  ("isNaN" .
+   [0 0 0 0 1])
+  ("body" .
+   [2 0 0 0])
+  ("box-shadow" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("active" .
+   [1 0 0 0 0 0])
+  ("inherit" .
+   [2 0 0 0 0 0 0])
+  ("border-left" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("border-bottom" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("last" .
+   [2 0 0 0])
+  ("ccc" .
+   [2 0 0])
+  ("larger" .
+   [1 0 0 0 0 0])
+  ("margin-right" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("sidebar-item" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("1" .
+   [5])
+  ("Shapefile" .
+   [0 0 0 0 0 0 0 0 1])
+  ("shapefileIdx" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("formats" .
+   [2 0 0 0 0 0 0])
+  ("format" .
+   [13 0 0 0 0 0])
+  ("disableBtn" .
+   [0 0 0 0 0 0 0 0 3 1])
+  ("fileupload" .
+   [4 0 0 0 0 0 2 0 0 0])
+  ("uploadData" .
+   [1 0 0 0 0 0 0 4 2 0])
+  ("up" .
+   [2 0])
+  ("list" .
+   [1 0 0 0])
+  ("files" .
+   [9 0 0 0 0])
+  ("support_files" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("uploader" .
+   [27 0 0 0 1 1 0 5])
+  ("iconModeToggle" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("BUTTON" .
+   [0 0 0 0 0 1])
+  ("buttonClicked" .
+   [0 0 0 0 0 0 0 0 1 0 1 0 0])
+  ("showPopover" .
+   [1 0 0 0 0 0 0 1 1 0 0])
+  ("trigger" .
+   [1 0 0 0 0 0 0])
+  ("initPopover" .
+   [0 0 0 0 0 0 1 0 1 0 0])
+  ("togglePopover" .
+   [0 0 0 0 0 0 0 0 1 3 0 0 0])
+  ("sqlContainer" .
+   [0 0 0 0 0 0 8 0 0 0 0 0])
+  ("6em" .
+   [1 0 0])
+  ("after" .
+   [3 0 0 0 0])
+  ("7" .
+   [1])
+  ("disableSaveQuery" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("model" .
+   [3 0 0 0 0])
+  ("specs" .
+   [3 0 0 0 0])
+  ("currentBlocks" .
+   [0 0 0 0 0 0 0 0 0 2 1 0 0])
+  ("currentBlocksParts" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0])
+  ("changeText" .
+   [1 0 0 0 0 0 0 0 0 1])
+  ("buildQuery" .
+   [0 0 0 0 0 0 1 1 0 0])
+  ("sqlBuilder" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("top" .
+   [2 0 0])
+  ("splitterOrientation" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("panel" .
+   [1 0 0 0 0])
+  ("10em" .
+   [1 0 0 0])
+  ("857142857em" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("border-right" .
+   [2 0 0 0 1 0 0 0 0 0 0 0])
+  ("max-height" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("58em" .
+   [1 0 0 0])
+  ("size" .
+   [2 0 0 0])
+  ("splitter" .
+   [4 0 0 0 0 0 0 0])
+  ("none" .
+   [4 0 1 0])
+  ("border-style" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("div" .
+   [8 0 0])
+  ("selectDataset" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("margin" .
+   [3 0 0 0 0 0])
+  ("padding-right" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("white" .
+   [1 0 0 0 0])
+  ("important" .
+   [1 0 0 0 0 1 0 1 0])
+  ("30em" .
+   [2 0 0 0])
+  ("max-width" .
+   [1 0 0 0 0 1 1 0 0])
+  ("height" .
+   [3 0 0 1 1 0])
+  ("20" .
+   [10 0])
+  ("width" .
+   [4 0 0 0 0])
+  ("5em" .
+   [12 0 0])
+  ("200" .
+   [16 0 0])
+  ("left" .
+   [1 0 0 0])
+  ("datasets-popover" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("popover" .
+   [4 0 0 0 2 0 1])
+  ("nowrap" .
+   [0 0 0 2 0 0])
+  ("white-space" .
+   [0 0 0 0 0 0 1 0 1 0 0])
+  ("scroll" .
+   [4 0 0 0 0 2])
+  ("overflow" .
+   [0 0 0 0 0 1 0 1])
+  ("5px" .
+   [3 0 0])
+  ("1em" .
+   [5 0 0])
+  ("1px" .
+   [8 0 0])
+  ("relative" .
+   [1 0 0 1 1 0 0 0])
+  ("inline-block" .
+   [2 0 0 0 0 0 0 0 0 3 0 0])
+  ("display" .
+   [0 0 0 0 0 5 0])
+  ("new-query-panel" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("new-custom-query" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("50" .
+   [2 0])
+  ("boundingBox" .
+   [2 0 0 0 0 0 0 0 0 0 1])
+  ("newGeometry" .
+   [0 0 0 0 1 2 1 1 0 0 0])
+  ("currentRowIdx" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cells" .
+   [1 0 0 0 0])
+  ("renderedRows" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("tableName" .
+   [1 0 0 0 0 0 1 0 0])
+  ("newProjects" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("newProject" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("preview_image" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("addTo" .
+   [1 0 0 0 1])
+  ("shit" .
+   [1 0 0 0])
+  ("layers" .
+   [11 0 0 0 0 0])
+  ("amigo" .
+   [6 0 0 0 0])
+  ("last_updated" .
+   [0 0 0 0 2 2 0 0 0 0 0 0])
+  ("e" .
+   [4])
+  ("extra" .
+   [6 0 0 0 0])
+  ("obj" .
+   [3 0 0])
+  ("dataset" .
+   [48 0 0 0 0 0 0])
+  ("socketService" .
+   [1 0 0 0 0 0 0 2 0 1 0 0 0])
+  ("//bin/" .
+   [0 0 2 0 0 0])
+  ("italic" .
+   [0 0 0 1 0 0])
+  ("font-style" .
+   [0 0 0 0 0 0 0 0 1 0])
+  ("amigoIdCell" .
+   [1 0 0 0 0 0 0 0 0 1 0])
+  ("amigoIdIdx" .
+   [0 0 0 0 0 0 1 1 1 0])
+  ("colsSchema" .
+   [0 0 0 0 0 3 2 1 0 0])
+  ("filter" .
+   [1 0 0 0 0 0])
+  ("generated" .
+   [0 0 0 0 0 0 1 0 0])
+  ("green" .
    [2 0 0 0 0])
+  ("saveable" .
+   [1 0 0 0 0 0 0 0])
+  ("ST_GeomFromText" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("wkbData" .
+   [0 0 0 0 3 0 1])
+  ("table_name" .
+   [1 0 0 0 0 0 0 0 1 1])
+  ("current" .
+   [2 0 0 0 0 0 1])
+  ("dummy" .
+   [1 0 0 0 1])
+  ("newRecord" .
+   [0 0 0 0 1 2 0 0 1])
+  ("hasZ" .
+   [2 0 0 0])
+  ("addLayer" .
+   [0 0 0 1 1 0 0 0])
+  ("emptyGeometry" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("default" .
+   [20 0 0 1 2 1 11])
+  ("fixMap" .
+   [1 0 0 0 0 0])
+  ("LINE_VALID_TYPES" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("polygon" .
+   [2 0 0 0 0 0 0])
+  ("POLYGON_VALID_TYPES" .
+   [0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("marker" .
+   [8 0 0 0 0 0])
+  ("polyline" .
+   [1 0 0 0 0 0 0 0])
+  ("point" .
+   [5 0 0 0 0])
+  ("POINT_VALID_TYPES" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
+  ("geometryType" .
+   [2 0 0 0 0 0 0 0 0 4 7 0])
+  ("some" .
+   [4 0 0 0])
+  ("edit" .
+   [1 0 0 0])
+  ("geometryColumn" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 1])
+  ("colName" .
+   [5 0 0 0 4 2 0])
+  ("500" .
+   [1 0 0])
+  ("level" .
+   [1 0 0 0 0])
+  ("str" .
+   [1 0 0])
+  ("levels" .
+   [10 0 0 0 0 0])
+  ("plot" .
+   [3 0 0 0])
+  ("cost_sums" .
+   [0 0 0 0 0 1 1 0 0])
+  ("cal_sums" .
+   [0 0 0 0 0 0 1 1])
+  ("max" .
+   [8 0 0])
+  ("scores" .
+   [2 0 0 0 0 0])
+  ("min" .
+   [4 0 0])
+  ("100" .
+   [8 0 0])
+  ("std" .
+   [1 0 0])
+  ("nums" .
+   [2 0 0 0])
+  ("current_min" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("right" .
+   [4 0 2 0 0])
+  ("float" .
+   [3 0 0 0 0])
+  ("best_samples" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("current_scores" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("best_scores" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("get_pyramid_score" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("get_consistency_score" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Consistency" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("get_costs_sum" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("current_samples" .
+   [1 0 0 0 0 0 0 0 0 0 0 2 1 0 0])
+  ("cal_diffs" .
+   [1 0 0 0 0 0 0 0 1])
+  ("balances" .
+   [3 0 0 0 0 0 0 0])
+  ("consistencies" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("costs" .
+   [3 0 0 0 0])
+  ("total" .
+   [3 0 0 0 0])
+  ("document" .
+   [10 0 0 0 0 0 0 2])
+  ("find" .
+   [43 0 0 0])
+  ("innerHTML" .
+   [0 0 0 0 0 3 0 0 0])
+  ("centerMarkers" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("centers" .
+   [4 0 0 0 0 0 0])
+  ("AA17AA" .
+   [1 0 0 0 0 0])
+  ("AF42FF" .
+   [1 0 0 0 0 0])
+  ("990FFF" .
+   [1 0 0 0 0 0])
+  ("ADAD00" .
+   [1 0 0 0 0 0])
+  ("00C600" .
+   [1 0 0 0 0 0])
+  ("changeCountryColor" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("arg" .
+   [1 0 0])
+  ("getBounds" .
+   [1 0 0 0 0 0 1 0 0])
+  ("paths" .
+   [6 0 0 0 0])
+  ("path" .
+   [3 0 0 0])
+  ("color" .
+   [16 0 0 0 0])
+  ("c" .
+   [8])
+  ("hop" .
+   [2 0 0])
+  ("hopsData" .
+   [0 0 0 0 1 0 0 0])
+  ("amigo_layers" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("tabular" .
+   [1 0 0 0 0 0 0])
+  ("ready" .
+   [4 0 0 0 0])
+  ("tempDatasetTabular" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("mapStatus" .
+   [0 0 0 0 0 0 0 1 0])
+  ("projectRegular" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("projectTabular" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("datasetPromiseTabular" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("datasetPromiseRegular" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("tempDatasetRegular" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("100%" .
+   [7 0 0 0])
+  ("margin-bottom" .
+   [2 0 0 0 0 0 0 0 0 5 0 0 0])
+  ("lang" .
+   [2 0 0 0])
+  ("currentIP" .
+   [1 0 0 0 0 0 0 0 0])
+  ("push" .
+   [17 0 0 0])
+  ("displayedItems" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("map" .
+   [18 0 0])
+  ("options" .
+   [8 0 0 0 0 0 1])
+  ("number" .
+   [3 0 0 0 0 0])
+  ("icon" .
+   [7 0 0 0])
+  ("searchByLatLng" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("array" .
+   [2 0 0 0 0])
+  ("propertyValue" .
+   [0 0 0 0 0 0 0 0 0 0 0 2 0])
+  ("propertyName" .
+   [0 0 0 2 0 0 1 0 0 0 0 0])
+  ("hopMarkers" .
+   [0 0 0 0 0 0 6 0 0 0])
+  ("longitude" .
+   [0 0 0 0 0 0 0 1 0])
+  ("latitude" .
+   [1 0 0 0 0 0 0 0])
+  ("addHop" .
+   [2 0 0 0 0 1])
+  ("_latlng" .
+   [1 0 0 0 0 0 0])
+  ("container" .
+   [10 0 0 0 0 0 0 0 0])
+  ("utilsService" .
+   [0 0 0 0 3 1 8 1 0 0 0 3])
+  ("floater" .
+   [1 0 0 0 0 0 0])
+  ("read" .
+   [3 0 0 0])
+  ("test" .
+   [1 0 0 0])
+  ("hops" .
+   [11 0 0 0])
+  ("source" .
+   [1 0 0 0 0 0])
+  ("ip_address" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("loads" .
+   [2 0 0 0 0])
+  ("json" .
+   [36 0 0 0])
+  ("open" .
+   [6 0 0 0])
+  ("sources" .
+   [5 0 0 0 0 0 0])
+  ("Traceroute" .
+   [1 0 0 0 0 1 0 0 0 1])
+  ("traceroute" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("from" .
+   [4 0 0 0])
+  ("import" .
+   [4 0 0 0 0 0])
+  ("def" .
+   [6 0 0])
+  ("__name__" .
+   [1 0 0 0 0 0 0 0])
+  ("append" .
+   [13 0 0 0 0 0])
+  ("col" .
+   [51 0 0])
+  ("Routes" .
+   [0 0 0 0 0 1])
+  ("$routeParams" .
+   [0 0 0 0 0 0 0 2 0 1 1 1])
+  ("apiService" .
+   [0 0 0 0 0 0 3 0 0 0])
+  ("projectId" .
+   [1 0 0 0 0 0 0 0 1])
+  ("routeParams" .
+   [1 0 0 0 0 0 0 0 0 1 0])
+  ("queries" .
+   [1 0 0 0 0 0 0])
+  ("currentProject" .
+   [2 0 0 0 0 0 0 0 0 3 5 0 0 1])
+  ("queriesData" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("project" .
+   [30 0 0 0 0 1 1])
+  ("the" .
+   [2 0 0])
+  ("all" .
+   [2 0 0])
+  ("work" .
+   [2 0 0 0])
+  ("should" .
+   [2 0 0 0 0 0])
+  ("isNumber" .
+   [2 0 0 0 0 0 0 0])
+  ("toBe" .
+   [11 0 0 0])
+  ("not" .
+   [8 0 0])
+  ("13" .
+   [3 0])
+  ("getBoundingRectangleCenter" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("service" .
+   [5 0 0 0 0 0 0])
+  ("geometryData" .
+   [1 0 0 0 0 0 0 1 0 0 2 3])
+  ("lng" .
+   [7 0 0])
+  ("tiles" .
+   [3 0 0 0 0])
+  ("tile" .
+   [3 0 0 0])
+  ("currentDataset" .
+   [1 0 0 0 0 0 0 0 8 0 0 4 3 7])
+  ("$new" .
+   [1 0 0 0])
+  ("parent" .
+   [7 0 0 0 0 0])
+  ("multipolygon" .
+   [0 0 0 0 0 0 0 0 2 0 0 0])
+  ("$dataTypes" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("dataType" .
+   [0 0 0 0 0 0 0 2])
+  ("inject" .
+   [1 0 0 0 0 0])
+  ("beforeEach" .
+   [0 0 0 0 0 0 0 0 1 0])
+  ("dataTypes" .
+   [3 0 0 0 0 0 0 0 0])
+  ("busy" .
+   [1 0 0 0])
+  ("true" .
+   [73 0 0 0])
+  ("707070" .
+   [1 0 0 0 0 0])
+  ("map-preview" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("absolute" .
+   [6 0 2 0 1 0 0 0])
+  ("center" .
+   [14 1 0 1 0 0])
+  ("margin-left" .
+   [2 0 0 0 0 0 0 0 0 2 1])
+  ("2em" .
+   [8 0 0])
+  ("padding" .
+   [3 0 0 0 2 0 0])
+  ("background-color" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("Background" .
+   [0 0 0 0 0 0 0 0 1 2])
+  ("error" .
+   [12 0 0 0 0])
+  ("theme" .
+   [1 0 0 0 0])
+  ("jgrowl" .
+   [1 0 0 0 0 0])
+  ("switch" .
+   [4 0 0 1 0 0])
+  ("break" .
+   [10 0 0 0 0])
+  ("length" .
+   [42 0 0 3 0 1])
+  ("var" .
+   [80 0 0])
+  ("case" .
+   [12 0 0 0])
+  ("type" .
+   [79 0 1 0])
+  ("geojson" .
+   [18 0 0 0 0 0 2])
+  ("mapData" .
+   [3 0 0 0 0 3 0])
+  ("Map" .
+   [1 0 3])
+  ("coordinates" .
+   [5 0 0 4 3 0 0 2 2 0 7])
+  ("$cookies" .
+   [5 0 0 0 0 0 1 0])
+  ("success" .
+   [17 0 0 0 0 0 1])
+  ("newQuery" .
+   [0 0 0 0 1 0 1 0])
+  ("header" .
+   [5 0 0 0 0 1])
+  ("url" .
+   [25 0 0])
+  ("$http" .
+   [17 0 1 2 2])
+  ("$rootScope" .
+   [0 0 0 0 12 3 1 0 0 11])
+  ("queryData" .
+   [1 0 0 0 0 0 0 0 0])
+  ("else" .
+   [25 0 0 0])
+  ("previousValue" .
+   [0 0 0 0 0 0 1 0 1 0 0 0 0])
+  ("field" .
+   [17 0 0 0 0])
+  ("editedType" .
+   [0 0 0 0 0 0 0 1 1 0])
+  ("oldValue" .
+   [0 0 5 6 10 4 1 0])
+  ("newValue" .
+   [0 0 2 13 44 8 3 10])
   ("function" .
-   [0 0 0 1 0 0 0 0])))
+   [154 0 0 0 0 0 0 0])
+  ("$watch" .
+   [12 0 0 4 3 0])
+  ("return" .
+   [36 0 0 0 0 0])
+  ("$apply" .
+   [7 0 0 0 3 6])
+  ("edited" .
+   [0 0 0 0 0 1])
+  ("slice" .
+   [3 0 0 0 0])
+  ("columns" .
+   [19 0 0 0 0 0 0])
+  ("log" .
+   [301 0 0])
+  ("console" .
+   [288 0 0 0 4 2 0])
+  ("editedValue" .
+   [1 0 0 0 0 0 0 0 4 2 2])
+  ("$parent" .
+   [28 0 0 0 0 1 1])
+  ("if" .
+   [90 0])
+  ("colField" .
+   [6 0 0 0 2 1 2 0])
+  ("colIndex" .
+   [2 0 0 2 5 2 0 0])
+  ("entity" .
+   [6 0 0 0 0 0])
+  ("row" .
+   [91 0 0])
+  ("amigo_id" .
+   [5 0 0 0 0 2 0 0])
+  ("data" .
+   [186 0 0 0])
+  ("tableData" .
+   [2 0 0 0 0 0 4 0 4])
+  ("$scope" .
+   [558 0 1 1 1 3])
+  ("searchByProperty" .
+   [0 0 0 0 2 0 0 1 0 0 0 0 0 0 0 0])
+  ("property" .
+   [1 0 0 0 0 0 0 0])
+  ("index" .
+   [5 0 0 0 0])
+  ("alpha" .
+   [4 0 0 0 0])
+  ("idx" .
+   [20 0 0])
+  ("temperature" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("print" .
+   [24 0 0 0 0])
+  ("10" .
+   [9 0])
+  ("play" .
+   [3 0 0 0])
+  ("test_penalty_game" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("10000" .
+   [1 0 0 0 0])
+  ("PenaltyGame" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("reward_table" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("method" .
+   [10 0 0 0 0 0])
+  ("choose_next" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("range" .
+   [6 0 0 0 0])
+  ("len" .
+   [7 0 0])
+  ("players" .
+   [3 0 0 0 0 0 0])
+  ("state" .
+   [1 0 0 0 0])
+  ("player" .
+   [20 0 0 0 0 0])
+  ("in" .
+   [19 0])
+  ("for" .
+   [39 0 0])
+  ("actions" .
+   [12 0 0 0 0 0 0])
+  ("states" .
+   [1 0 0 0 0 0])
+  ("table" .
+   [3 0 0 0 0])
+  ("reward" .
+   [1 0 0 0 0 0])
+  ("self" .
+   [40 0 0 0])
+  ("zoom" .
+   [7 0 0 0])
+  ("angle" .
+   [6 0 0 0 0])
+  ("Math" .
+   [5 0 0 0])
+  ("max_x" .
+   [0 0 0 0 1])
+  ("min_x" .
+   [1 0 0 0 0])
+  ("max_y" .
+   [1 0 0 0 0])
+  ("min_y" .
+   [1 0 0 0 0])
+  ("pixelWidth" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("360" .
+   [1 0 0])
+  ("globeWidth" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("z" .
+   [3])
+  ("element" .
+   [36 0 0 0 0 0 0])
+  ("$compile" .
+   [7 0 0 0 1 0 0 0])
+  ("scope" .
+   [69 0 0 0 0])
+  ("new" .
+   [8 0 1])
+  ("expect" .
+   [30 0 0 0 2 0])
+  ("directive" .
+   [0 0 0 0 0 0 0 0 3])
+  ("directiveScope" .
+   [0 0 0 0 0 0 0 0 0 0 2 28 3 0])
+  ("children" .
+   [5 0 0 0 0 0 0 0])
+  ("class" .
+   [9 0 0 0 0])
+  ("id" .
+   [41 0])
+  ("attrs" .
+   [2 0 0 0 0])
+  ("lat" .
+   [11 0 0])
+  ("defaults" .
+   [10 0 0 0 0 0 0 0])
+  ("null" .
+   [40 0 0 0])
+  ("g" .
+   [2])
+  ("JSON" .
+   [11 0 0 0])
+  ("stringify" .
+   [12 0 0 0 0 0 0 0 2])
+  ("replaceWith" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("query" .
+   [37 0 0 0 0])
+  ("get" .
+   [17 0 0])
+  ("initParams" .
+   [0 0 0 0 0 0 0 0 2 0])
+  ("rowData" .
+   [10 0 0 0 2 0 0])
+  ("column" .
+   [19 0 0 0 0 3])
+  ("html" .
+   [12 0 0 0])
+  ("write" .
+   [6 0 0 0 0])
+  ("get_ips" .
+   [1 0 0 0 0 0 0])
+  ("filename" .
+   [9 0 0 0 0 0 0 1])
+  ("with" .
+   [4 0 0 0])
+  ("as" .
+   [3 0])
+  ("stdout" .
+   [1 0 0 0 1 0])
+  ("ipsfile" .
+   [2 0 0 0 0 0 0])
+  ("line" .
+   [1 0 0 0])
+  ("filepath" .
+   [1 0 0 0 0 0 0 0])
+  ("other" .
+   [1 0 0 0 0])
+  ("timeout" .
+   [2 0 0 0 0 0 0])
+  ("while" .
+   [1 0 0 0 0])
+  ("country" .
+   [32 0 0 0 0 0 0])
+  ("ips" .
+   [3 0 0])
+  ("keys" .
+   [3 0 0 0])
+  ("ip" .
+   [21 0])
+  ("country_hops" .
+   [0 0 0 0 0 0 0 0 2 0 0 0])
+  ("AmigoPlatform" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("fetchRow" .
+   [1 0 0 0 0 0 1 0])
+  ("fetchParams" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("fetch" .
+   [1 0 0 0 0])
+  ("when" .
+   [2 0 0 0])
+  ("then" .
+   [4 0 0 0])
+  ("Amigo" .
+   [15 0 0 0 0])
+  ("rows" .
+   [6 0 0 0])
+  ("rowContainer" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("columnDefiner" .
+   [2 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("0px" .
+   [5 0 0])
+  ("currentRow" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("currentTemplate" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("indexOf" .
+   [2 0 0 0 0 0 0])
+  ("name" .
+   [73 0 0 0])
+  ("!==" .
+   [1 0 0])
+  ("false" .
+   [44 0 0 0 0])
+  ("s" .
+   [11])
+  ("justSaved" .
+   [0 0 0 0 0 0 0 1 0])
+  ("renderTemplate" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("datetime" .
+   [9 0 0 0 0 0 0 0])
+  ("now" .
+   [5 0 0])
+  ("seconds" .
+   [1 0 0 0 0 0 0])
+  ("minute" .
+   [1 0 0 0 0 0])
+  ("protocol" .
+   [3 0 0 0 0 0 0 1])
+  ("minutes" .
+   [4 0 0 0 0 0 0])
+  ("pass" .
+   [3 0 0 0])
+  ("int" .
+   [1 0 0])
+  ("False" .
+   [2 0 0 0 0])
+  ("get_udp_minute" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("raw_input" .
+   [0 0 0 0 2 0 2 0 0])
+  ("counter" .
+   [8 0 0 0 0 0 0])
+  ("raw" .
+   [1 0 0])
+  ("continue" .
+   [1 0 0 0 0 0 0 0])
+  ("protocols" .
+   [1 0 0 0 0 0 0 0 0])
+  ("outfile" .
+   [5 0 0 0 0 0 0])
+  ("make_csv_from_dict" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("results" .
+   [6 0 0 0 0 0 0])
+  ("get_stats" .
+   [1 0 0 0 0 0 0 0 0])
+  ("pprint" .
+   [2 0 0 0 0 0])
+  ("source_addrs" .
+   [1 0 0 0 0 0 0 0 0 0 2 0])
+  ("make_ip_csv" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("on" .
+   [7 0])
+  ("drawnItems" .
+   [0 0 0 0 4 5 1 1 1 4])
+  ("layer" .
+   [33 0 0 0 0])
+  ("_layers" .
+   [2 0 0 0 0 0 0])
+  ("toBeSaved" .
+   [0 0 0 0 6 9 1 0 1])
+  ("to" .
+   [1 0])
+  ("geometry" .
+   [23 0 0 0 0 0 0 1])
+  ("sql" .
+   [11 0 0])
+  ("PUT" .
+   [1 0 0])
+  ("toGeoJSON" .
+   [0 0 0 0 0 2 0 0 0])
+  ("$element" .
+   [26 0 0 0 0 1 1 0])
+  ("jGrowl" .
+   [1 0 0 0 0 0])
+  ("wkt" .
+   [8 0 0])
+  ("wktFromGeoJSON" .
+   [0 0 0 0 0 0 1 1 0 0 0 0 0 0])
+  ("features" .
+   [1 0 0 0 0 0 0 0])
+  ("0" .
+   [55])
+  ("value" .
+   [37 0 0 0 0])
+  ("wktData" .
+   [2 0 0 0 0 0 0])
+  ("this" .
+   [47 0 0 0])
+  ("dirtyFields" .
+   [0 0 0 1 1 2 0 0 0 0 0])
+  ("only" .
+   [1 0 0 0])
+  ("onlyDirty" .
+   [1 0 0 0 0 0 1 1 0])
+  ("undefined" .
+   [10 0 0 0 0 0 0 0 0])
+  ("currentCols" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("colt" .
+   [3 0 0 0])
+  ("5" .
+   [5])
+  ("input" .
+   [27 0 0 0 0])
+  ("checkbox" .
+   [21 0 0 0 1 0 0 7])
+  ("visibility" .
+   [0 0 0 0 0 0 0 0 1 0])
+  ("hidden" .
+   [0 0 1 0 0 1])
+  ("margin-top" .
+   [3 0 0 0 0 0 0 0 0 0])
+  ("auto" .
+   [14 1 0 1])
+  ("4" .
+   [1])
+  ("ng" .
+   [7 0])
+  ("click" .
+   [14 0 0 0 0])
+  ("balls" .
+   [2 0 0 0 0])
+  ("selectAll" .
+   [1 0 0 0 0 0 0 0 0])
+  ("grid" .
+   [3 0 0 0])
+  ("cell" .
+   [7 0 0 0])
+  ("attr" .
+   [7 0 1 0])
+  ("checked" .
+   [4 0 0 0 0 0 0])
+  ("custom" .
+   [1 0 0 0 0 0])
+  ("selectRow" .
+   [2 0 0 0 0 0 0 0 0])
+  ("ngGridCheckbox" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("checkboxAll" .
+   [0 0 0 0 0 0 0 0 0 2 0])
+  ("toggleRowSelect" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("t" .
+   [3])
+  ("validateString" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("COL_FIELD" .
+   [1 0 0 0 3 0 0 0 0])
+  ("string" .
+   [20 0 0 0 0 1])
+  ("ngGridWithValidation" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("$broadcast" .
+   [0 0 0 1 2 1 2 0 0 0])
+  ("ball" .
+   [1 0 0 0])
+  ("info" .
+   [10 0 0 0])
+  ("isValid" .
+   [1 0 0 0 0 0 0])
+  ("elm" .
+   [3 0 0])
+  ("a" .
+   [6])
+  ("split" .
+   [3 0 0 0 0])
+  ("addClass" .
+   [0 0 0 0 1 5 0 1])
+  ("saveNewRecord" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("dataset_id" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("makeInsertQueryWithRow" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("colDefs" .
+   [0 0 0 0 3 2 6])
+  ("wkbGeometry" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("st_geomfromtext" .
+   [1 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("errorData" .
+   [2 0 0 0 0 0 1 0 0])
+  ("rootScope" .
+   [0 0 0 2 1 0 0 0 1])
+  ("$" .
+   [3])
+  ("userData" .
+   [1 0 0 0 0 4 0 0])
+  ("email" .
+   [10 0 0 0 0])
+  ("sqlBlocks" .
+   [6 0 0 0 0 9 2 0 1])
+  ("blocksIdx" .
+   [5 0 0 0 0 0 0 2 0])
+  ("blockName" .
+   [7 0 0 0 0 1 3 1 0])
+  ("addBlock" .
+   [0 0 0 0 1 4 0 0])
+  ("parts" .
+   [3 0 0 0 0])
+  ("block" .
+   [3 0 0 0 0])
+  ("blockParts" .
+   [0 0 0 0 0 0 0 1 1 0])
+  ("blockString" .
+   [0 0 0 0 0 0 0 2 2 1 0])
+  ("span" .
+   [4 0 0 0])
+  ("renderBlock" .
+   [1 0 0 0 0 0 0 0 0 1 0])
+  ("query-block" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("text-decoration" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("showPopup" .
+   [1 0 0 0 0 0 0 0 0])
+  ("style" .
+   [1 0 0 0 0])
+  ("textarea" .
+   [6 0 0 0 0 0 0 0])
+  ("textarea-div" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("text" .
+   [5 0 0 0])
+  ("p" .
+   [2])
+  ("position" .
+   [1 0 0 0 0 0 0 0])
+  ("change" .
+   [9 0 0 0 0 0])
+  ("search" .
+   [3 0 0 0 0 0])
+  ("searchString" .
+   [0 0 0 0 0 0 1 1 0 0 0 1])
+  ("datasets" .
+   [8 0 0 0 0 0 0 1])
+  ("datasetsData" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("571428571em" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("x" .
+   [2])
+  ("show" .
+   [3 0 0 0])
+  ("showThis" .
+   [1 0 0 0 0 0 0 0])
+  ("font-family" .
+   [0 0 0 0 0 0 0 0 2 0 0])
+  ("Courier" .
+   [0 0 0 1 0 0 0])
+  ("padding-left" .
+   [2 0 0 0 0 0 0 0 0 0 1 0])
+  ("padding-top" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("2" .
+   [7])
+  ("queryTypes" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("initial" .
+   [2 0 0 0 0 0 2])
+  ("values" .
+   [4 0 0 0 0 0])
+  ("toBeDefined" .
+   [2 0 0 0 0 2 2 5 1 2 0])
+  ("render" .
+   [1 0 0 0 0 0])
+  ("toBeUndefined" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("currently" .
+   [0 0 0 0 0 0 0 0 1])
+  ("toBeNull" .
+   [2 0 0 0 0 0 0 0])
+  ("border" .
+   [2 0 0 0 0 0])
+  ("cccccc" .
+   [1 0 0 0 0 0])
+  ("pre" .
+   [2 0 0])
+  ("code" .
+   [2 0 0 0])
+  ("714285714em" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("colorable" .
+   [1 0 0 0 0 0 0 0 0])
+  ("geoType" .
+   [1 0 0 0 0 0 0])
+  ("delete" .
+   [2 0 0 0 0 0])
+  ("stringifyStyle" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("iconModeOn" .
+   [0 0 0 0 0 3 0 0 0 0])
+  ("uploadUrl" .
+   [0 0 0 0 0 0 0 1 0])
+  ("formData" .
+   [1 0 0 0 0 10 0 6])
+  ("headers" .
+   [2 0 0 0 0 0 0])
+  ("toEqual" .
+   [2 0 0 4 0 1 0])
+  ("submitBtn" .
+   [3 0 0 0 0 0 0 0 0])
+  ("add" .
+   [4 0 0])
+  ("done" .
+   [3 0 0 0])
+  ("toggleIconMode" .
+   [0 0 0 0 0 0 0 1 0 0 1 1 0 0])
+  ("styling" .
+   [4 0 0 0 0 0 0])
+  ("upload" .
+   [2 0 0 0 0 0])
+  ("submitted" .
+   [2 0 0 0 0 0 0 0 0])
+  ("btn" .
+   [3 0 0])
+  ("by" .
+   [1 0])
+  ("calling" .
+   [1 0 0 0 0 0 0])
+  ("submit" .
+   [4 0 0 0 0 0])
+  ("uploading" .
+   [1 0 0 0 0 0 0 0 0])
+  ("o" .
+   [5])
+  ("transparency" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("togglePreview" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("opacity" .
+   [2 0 0 0 0 1 0])
+  ("10px" .
+   [4 0 0 0])
+  ("padding-bottom" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("value-group" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("X2J" .
+   [1 0 0])
+  ("parseXml" .
+   [1 0 0 0 0 0 0 0])
+  ("capabsData" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("capabs" .
+   [2 0 0 0 0 0])
+  ("layerGroup" .
+   [2 0 0 0 0 0 1 0 0 0])
+  ("layerObj" .
+   [2 0 0 0 0 0 1 0])
+  ("capabsObj" .
+   [0 0 0 0 0 0 0 2 0])
+  ("jValue" .
+   [2 0 0 0 0 0])
+  ("i" .
+   [2])
+  ("crs" .
+   [4 0 0])
+  ("jAttr" .
+   [1 0 0 0 0])
+  ("CRS" .
+   [2 0 0])
+  ("maxx" .
+   [1 0 0 0])
+  ("minx" .
+   [1 0 0 0])
+  ("miny" .
+   [1 0 0 0])
+  ("title" .
+   [1 0 0 0 0])
+  ("wmsLayers" .
+   [1 0 0 0 1 0 0 0 0])
+  ("Layer" .
+   [1 0 0 0 0])
+  ("WMS" .
+   [1 0 0])
+  ("WMS_Capabilities" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("buildLayerFromCapabs" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("wms" .
+   [4 0 0])
+  ("transparent" .
+   [4 0 0 0 0 0 0 0 0 0 0])
+  ("wmsOptions" .
+   [3 0 0 0 0 1 0 0 0 0])
+  ("layerName" .
+   [1 0 0 0 0 0 0 0 0])
+  ("wmsUrl" .
+   [3 0 0 0 0 0])
+  ("remove" .
+   [8 0 0 0 0 1])
+  ("bbox" .
+   [4 0 0 0])
+  ("getCenterForBoundingBox" .
+   [0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
+  ("parseFloat" .
+   [2 0 0 0 0 0 2 2 0 0])
+  ("fitBounds" .
+   [0 0 0 0 0 0 1 0 0])
+  ("nwPoint" .
+   [0 0 0 0 0 1 0])
+  ("se" .
+   [1 0])
+  ("selectedRows" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("SELECT" .
+   [1 0 0 0 0 0])
+  ("statements" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("of" .
+   [2 0])
+  ("sqlString" .
+   [3 0 0 0 0 0 1 0 0])
+  ("sqlParse" .
+   [1 0 0 0 0 1 0 0])
+  ("where" .
+   [2 0 0 0 0])
+  ("degrees" .
+   [1 0 0 0 0 0 0])
+  ("spinbox" .
+   [2 0 0 0 0 0 0])
+  ("type=" .
+   [1 0 0 0 0])
+  ("setOpacity" .
+   [1 0 0 0 2 1 1 0 0 0])
+  ("setSize" .
+   [2 0 0 0 3 0 1])
+  ("91%" .
+   [1 0 0])
+  ("new-dataset" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("middle" .
+   [0 0 0 0 0 1])
+  ("progressBar" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("percent" .
+   [1 0 0 0 0 0 0])
+  ("chunkSend" .
+   [3 0 0 0 0 0 0 0 0])
+  ("chunks" .
+   [1 0 0 0 0 0])
+  ("result" .
+   [4 0 0 0 0 0])
+  ("upload_id" .
+   [0 0 0 0 0 0 0 2 0])
+  ("form" .
+   [2 0 0 0])
+  ("currentFile" .
+   [0 0 0 0 0 0 0 0 2 0 0])
+  ("currentFileIdx" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("option" .
+   [4 0 0 0 0 0])
+  ("fieldsInfo" .
+   [2 0 0 0 0 0 0 5 1 2])
+  ("colType" .
+   [0 0 0 0 5 2 0])
+  ("variables" .
+   [1 0 0 0 0 0 0 0 0])
+  ("modalOpen" .
+   [1 0 0 0 0 0 0 0 0])
+  ("event" .
+   [16 0 0 0 0])
+  ("setTabularClass" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("fieldsContainer" .
+   [0 0 0 0 0 0 0 2 0 2 0 0 0 0 0])
+  ("geometryContainer" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("geoInfo" .
+   [0 0 0 0 3 1 0])
+  ("saveRecord" .
+   [1 0 0 0 0 1 2 0 0 0])
+  ("or" .
+   [1 0])
+  ("$httpBackend" .
+   [0 0 0 0 0 0 1 0 1 2 0 0])
+  ("flush" .
+   [4 0 0 0 0])
+  ("pairs" .
+   [10 0 0 0 0])
+  ("loading" .
+   [1 0 0 0 0 0 0])
+  ("msg" .
+   [7 0 0])
+  ("400" .
+   [2 0 0])
+  ("extraInfo" .
+   [0 0 0 0 0 0 1 1 0])
+  ("fire" .
+   [1 0 0 0])
+  ("fetchSchema" .
+   [2 0 0 0 0 0 1 2 0 0 1])
+  ("schema" .
+   [76 0 0 0 0 0])
+  ("nullable" .
+   [10 0 0 0 0 0 0 0])
+  ("mockResponses" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("defined" .
+   [1 0 0 0 0 0 0])
+  ("validations" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("geometryHTMLString" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("fieldHTMLString" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("buildElements" .
+   [0 0 0 0 0 0 2 1 0 0 0 0 0])
+  ("validateAll" .
+   [0 0 0 0 0 0 0 0 0 2 0])
+  ("validate" .
+   [1 0 0 0 0 0 0 0])
+  ("makeColValPairs" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("setGeoInfo" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("geo_type" .
+   [1 0 0 0 0 0 0 0])
+  ("schemaData" .
+   [2 0 0 0 0 0 0 8 0 0])
+  ("warningFields" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("badFields" .
+   [0 0 0 0 0 1 0 0 0])
+  ("fields" .
+   [2 0 0 0 0 0])
+  ("colContainer" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("3" .
+   [5])
+  ("dataset-info" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Project" .
+   [0 0 0 0 0 1 0])
+  ("project-dashboard-datasets" .
+   [0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("dataset-description" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("c8c8c8" .
+   [1 0 0 0 0 0])
+  ("border-radius" .
+   [0 0 0 0 0 0 0 0 0 3 0 0 0])
+  ("3px" .
+   [3 0 0])
+  ("modal-dialog" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("$modalInstance" .
+   [0 0 0 0 0 0 0 5 0 0 0 0 0 1])
+  ("close" .
+   [7 0 0 0 0])
+  ("variable" .
+   [2 0 0 0 0 0 0 0])
+  ("min-height" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("apply" .
+   [1 0 0 0 0])
+  ("changeArgs" .
+   [0 0 0 0 0 0 0 3 0 0])
+  ("arguments" .
+   [0 0 0 0 1 0 0 0 0])
+  ("getArgs" .
+   [0 0 0 0 0 1 0])
+  ("$attributes" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("$attrs" .
+   [2 0 0 0 0 0])
+  ("$attr" .
+   [0 0 0 0 1])
+  ("enter" .
+   [2 0 0 0 0])
+  ("keypress" .
+   [2 0 0 0 0 0 0 0])
+  ("which" .
+   [2 0 0 0 0])
+  ("and" .
+   [1 0 0])
+  ("it" .
+   [1 0])
+  ("make" .
+   [2 0 0 0])
+  ("valid" .
+   [2 0 0 0 0])
+  ("SQL" .
+   [1 0 0])
+  ("INSERT" .
+   [1 0 0 0 0 0])
+  ("01" .
+   [1 0])
+  ("00" .
+   [3 0])
+  ("field-option" .
+   [1 0 0 0 0 0 0 0 0 0 0 1])
+  ("text-align" .
+   [0 0 0 0 0 0 0 0 1 0])
+  ("label" .
+   [4 0 0 0 0])
+  ("modal-body" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("schema-modal" .
+   [3 0 0 0 0 0 0 0 0 0 0 0])
+  ("item" .
+   [4 0 0 0])
+  ("addField" .
+   [1 0 0 0 0 0 0 0])
+  ("7px" .
+   [1 0 0])
+  ("9px" .
+   [1 0 0])
+  ("schema-header-right" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("schema-header-left" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("generateElement" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("decimal" .
+   [1 0 0 0 0 0 0])
+  ("14" .
+   [1 0])
+  ("uniqueId" .
+   [1 0 0 0 0 0 0 0])
+  ("date" .
+   [2 0 0 0])
+  ("gallery" .
+   [1 0 0 0 1 0 0])
+  ("each" .
+   [7 0 0 0])
+  ("lines" .
+   [2 0 0 0 0])
+  ("polygons" .
+   [2 0 0 0 0 0 0 0])
+  ("curs" .
+   [0 0 0 1])
+  ("cursor" .
+   [3 0 0 0 0 0])
+  ("pointer" .
+   [1 0 0 0 0 0 0])
+  ("autoModified" .
+   [4 0 0 0 0 0 0 1 0 0 2 0])
+  ("picklist" .
+   [3 0 0 0 0 0 0 0])
+  ("addItem" .
+   [0 0 0 0 2 0 0])
+  ("itemEl" .
+   [2 0 0 0 0 0])
+  ("removeSelected" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("currentItemId" .
+   [1 0 0 0 0 0 0 0 3 0 1 0 2])
+  ("itemInfo" .
+   [0 0 0 0 0 0 1 0])
+  ("addedItems" .
+   [1 0 0 0 0 1 3 0 0 9])
+  ("itemId" .
+   [1 0 0 0 0 0])
+  ("schema-geometry-option" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("picklist-table" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0])
+  ("e8e8e8" .
+   [1 0 0 0 0 0])
+  ("toggleEdit" .
+   [1 0 0 0 0 0 0 0 0 2])
+  ("$event" .
+   [4 0 0 0 0 0])
+  ("target" .
+   [8 0 0 0 0 0])
+  ("focus" .
+   [2 0 0 0 0])
+  ("keyup" .
+   [1 0 0 0 0])
+  ("keyupEvent" .
+   [0 0 0 0 0 0 1 0 1 0])
+  ("keydown" .
+   [2 0 0 0 0 0 0])
+  ("preventDefault" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("types" .
+   [1 0 0 0 0])
+  ("typeFunctions" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("mapColDataToSchema" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
+  ("$emit" .
+   [3 0 0 0 0])
+  ("newColumn" .
+   [1 0 0 0 3 0 0 0 0])
+  ("Data" .
+   [0 0 0 1])
+  ("COLUMN" .
+   [1 0 0 0 0 0])
+  ("parse" .
+   [1 0 0 0 0])
+  ("prop" .
+   [3 0 0 0])
+  ("disabled" .
+   [5 0 0 0 0 0 0 0])
+  ("schema-item-header" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("dirtyBlock" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("dirty" .
+   [1 0 0 0 0])
+  ("disableSave" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("created" .
+   [2 0 0 0 0 0 0])
+  ("modified" .
+   [2 0 0 0 0 0 0 0])
+  ("autoClass" .
+   [1 0 0 0 0 2 0 0 0])
+  ("autoProject" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("newDatasets" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("newDataset" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("autoIncrement" .
+   [0 0 0 0 0 1 2 1 1 0 0 0 0])
+  ("initialItems" .
+   [2 0 0 1 0 0 0 0 3 0 0 1])
+  ("projectData" .
+   [2 0 0 0 0 0 0 0 4 0 0])
+  ("d" .
+   [3])
+  ("CURRENT_USER" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("CURRENT_TIMESTAMP" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("GENERATE_UUID" .
+   [1 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("max_length" .
+   [0 0 0 0 0 0 2 0 0 0])
+  ("successData" .
+   [0 0 0 0 0 0 0 0 2 0 0])
+  ("job" .
+   [4 0 0])
+  ("jobData" .
+   [1 0 0 0 0 0 0])
+  ("$location" .
+   [0 0 0 0 0 2 0 0 0])
+  ("$window" .
+   [1 0 0 0 0 0 0])
+  ("users" .
+   [15 0 0 0 0])
+  ("extended_info" .
+   [1 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("extendUsersInfo" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("images" .
+   [1 0 0 0 0 0])
+  ("image" .
+   [1 0 0 0 0])
+  ("imageData" .
+   [1 0 0 0 0 0 1 0 0])
+  ("fetchUserImages" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("user" .
+   [14 0 0 0])
+  ("currentUser" .
+   [2 0 0 0 0 0 0 0 4 0 0])
+  ("selectedUser" .
+   [7 0 0 0 0 0 0 0 0 5 0 0])
+  ("check" .
+   [3 0 0 0 0])
+  ("selectElement" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("checkUser" .
+   [1 0 0 0 0 0 0 0 0])
+  ("amigoId" .
+   [4 0 0 0 0 0 7])
+  ("editCell" .
+   [1 0 0 0 0 0 0 0])
+  ("editMode" .
+   [4 0 0 0 0 1 0 0])
+  ("saveName" .
+   [1 0 0 0 0 0 0 0])
+  ("unbind" .
+   [1 0 0 0 0 0])
+  ("stopPropagation" .
+   [0 0 0 0 0 4 1 0 1 0 0 0 0 0 0])
+  ("setupInputs" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("init" .
+   [1 0 0 0])
+  ("$digest" .
+   [1 0 0 0 1 1 0])
+  ("setTimeout" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("$timeout" .
+   [1 0 0 0 0 1 0 0])
+  ("base_layer" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("base" .
+   [2 0 0 0])
+  ("Layers" .
+   [1 0 0 0 0 0])
+  ("layersData" .
+   [0 0 0 0 0 0 0 2 0 0])
+  ("openBaseLayersModal" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("save" .
+   [2 0 0 0])
+  ("base_layers" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("15px" .
+   [1 0 0 0])
+  ("600px" .
+   [1 0 0 0 0])
+  ("diskSize" .
+   [0 0 0 0 2 0 0 0])
+  ("offline" .
+   [1 0 0 0 0 0 0])
+  ("areas" .
+   [1 0 0 0 0])
+  ("usersData" .
+   [0 0 0 0 0 0 0 0 1])
+  ("selectedRow" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("fetchGeometries" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("processGeoJsons" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("onEachFeature" .
+   [0 0 0 1 0 1 0 0 0 0 0 0 0])
+  ("setStyle" .
+   [1 0 0 0 0 0 0 0])
+  ("valueTypes" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("currentItemValue" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 6 2 0 0])
+  ("n" .
+   [1])
+  ("existingItem" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("getNextItemValue" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("moment" .
+   [8 0 0 0 0 0])
+  ("Current" .
+   [0 0 0 0 0 1 2])
+  ("parseInt" .
+   [0 0 0 0 0 0 3 1])
+  ("baseLayers" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("min_value" .
+   [1 0 0 0 0 0 1 1 0])
+  ("minValue" .
+   [1 0 0 0 1 0 0 0])
+  ("max_value" .
+   [1 0 0 0 0 0 0 0 0])
+  ("maxValue" .
+   [1 0 0 0 0 0 0 0])
+  ("saveLayers" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("owner_email" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("autoPopulated" .
+   [0 0 0 0 0 1 2 0 0 0 0 0 0])
+  ("dblclick" .
+   [0 0 0 1 0 0 0 0])
+  ("selectedFeature" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("Polygon" .
+   [1 0 0 0 0 0 0])
+  ("htmlString" .
+   [1 0 0 0 0 1 0 0 0 0])
+  ("initSideControls" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("projects" .
+   [4 0 0 0 0 0 0 0])
+  ("newRow" .
+   [1 0 0 0 3 1])
+  ("highlightGeometry" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("DATETIME_FORMAT" .
+   [0 0 0 0 1 0 0 1 0 0 0 0 0 0 0])
+  ("modalInstance" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("changesUrl" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("esriCreds" .
+   [0 0 0 0 0 0 0 0 1])
+  ("esriCredentials" .
+   [1 0 0 0 0 0 0 0 0 0 2 0 0 0 0])
+  ("client_id" .
+   [2 0 0 0 0 0 0 0 0])
+  ("client_secret" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("prototype" .
+   [0 0 0 0 0 0 1 0 0])
+  ("getProperty" .
+   [0 0 0 0 0 0 0 0 0 1 2])
+  ("angular" .
+   [1 0 0 0 0 0 0])
+  ("module" .
+   [1 0 0 0 0 0])
+  ("__proto__" .
+   [0 0 0 0 0 0 0 1 0])
+  ("$parse" .
+   [1 0 0 0 0 0])
+  ("hackApplied" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("points" .
+   [1 0 0 0 0 0])
+  ("go_to_wms_page" .
+   [0 0 0 0 0 0 0 0 0 1 1 0 0 0])
+  ("wms_page" .
+   [1 0 0 0 0 0 0 0])
+  ("urlparse" .
+   [2 0 0 0 0 0 0 0])
+  ("presence_of_element_located" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("wait_for_user_checkbox" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("max_upload" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("handler" .
+   [1 0 0 0 0 0 0])
+  ("Called" .
+   [0 0 0 0 1 0])
+  ("callback" .
+   [1 0 0 0 0 0 0 0])
+  ("foo" .
+   [2 0 0])
+  ("className" .
+   [0 0 0 0 0 0 1 0 0])
+  ("25" .
+   [2 0])
+  ("speed" .
+   [1 0 0 0 0])
+  ("15" .
+   [1 0])
+  ("12" .
+   [4 0])
+  ("auth_views" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("otp" .
+   [3 0 0])
+  ("config" .
+   [2 0 0 0 1 0])
+  ("esriLayer" .
+   [0 0 0 0 0 0 0 0 4])
+  ("esriLayers" .
+   [1 0 0 0 0 0 0 0 0 0])))

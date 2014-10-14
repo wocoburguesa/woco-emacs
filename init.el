@@ -11,9 +11,15 @@
 (require 'org)
 (require 'whitespace)
 (require 'flymake-cursor)
+(require 'flymake-csslint)
 
 ;;Misc
 (load-library "woco-misc")
+
+;;CUDA mode
+(autoload 'cuda-mode "cuda-mode.el")
+(add-to-list 'auto-mode-alist '("\\.cu\\'" . cuda-mode))
+(add-to-list 'auto-mode-alist '("\\.cuh\\'" . cuda-mode))
 
 ;;Javascript niceties
 (load-library "woco-lintnode")
@@ -51,11 +57,18 @@
  '(c-echo-syntactic-information-p nil)
  '(c-report-syntactic-errors nil)
  '(cpp-face-type (quote dark))
+ '(flymake-csslint-program "/usr/local/bin/csslint")
  '(global-whitespace-mode t)
  '(global-whitespace-newline-mode nil)
  '(ido-auto-merge-delay-time 100)
  '(ido-decorations (quote ("{" "}" " | " " | ..." "[" "]" " [nope.avi]" " [winrar]")))
  '(ido-separator nil)
+ '(js-auto-indent-flag t)
+ '(js-basic-offset 4)
+ '(js-curly-indent-offset 0)
+ '(js-expr-indent-offset 0)
+ '(js-paren-indent-offset 0)
+ '(js-square-indent-offset 0)
  '(uniquify-buffer-name-style (quote forward) nil (uniquify))
  '(whitespace-action nil)
  '(whitespace-global-modes t)

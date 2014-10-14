@@ -68,3 +68,13 @@
       (define-key html-mode-map "[" 'electric-pair)
       (define-key html-mode-map "<" 'electric-pair)
       (define-key html-mode-map "{" 'electric-pair)))
+
+;;Javascript
+(add-hook 'js-mode-hook
+     (lambda ()
+      (define-key js-mode-map "\"" 'electric-pair)
+      (define-key js-mode-map "\'" 'electric-pair)
+      (define-key js-mode-map "(" 'electric-pair)
+      (define-key js-mode-map "[" 'electric-pair)
+      (define-key js-mode-map "<" 'electric-pair)
+      (define-key js-mode-map "{" 'electric-pair)))
